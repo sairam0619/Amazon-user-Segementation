@@ -2,7 +2,8 @@
 
 Amazon data user segmentation Developed an ML model using the dataset of Amazon and used it to do the user segmentation. 
 
-**#librarys used**
+# Librarys used
+
 1.numpy 
 
 2.matplotlib
